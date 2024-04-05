@@ -38,7 +38,13 @@ body {
 }
 
 /* 上の部分は気にせずここから書く */
+.coffee{
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
 .coffee img{
-  width: 250px;
-  margin: 3px 100px;
+  width:250px;
+  margin: 3px;
 }
